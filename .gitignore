@@ -1,2 +1,4 @@
 Images
 .vscode
+face_recognizer_model.h5
+train.zip
